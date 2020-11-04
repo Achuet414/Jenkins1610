@@ -56,5 +56,4 @@ def browser(config_browser, config_wait_time):
   
   # For cleanup, quit the driver
   driver.quit()
-  import import
-  driver.quit()
+  
