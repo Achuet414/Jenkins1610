@@ -29,4 +29,4 @@ def test_multiplication(a, b, expected):
 def test_divide_by_zero():
   with pytest.raises(ZeroDivisionError):
     1 / 0
-test
+
